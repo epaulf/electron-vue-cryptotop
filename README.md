@@ -6,6 +6,7 @@ Puedes seguir la cunstrucción de la aplicación de Criptomonedas paso a paso en
 http://www.proflema.com/index.php/2018/05/09/crear-top-criptomonedas-vuejs-2/
 
 Para construir esta aplicación de forma nativa paso a paso seguir:
+http://www.proflema.com/index.php/2018/05/22/top-de-criptomonedas-con-electron-vue/
 
 ![Preview](electroncryp.png "nativeinmac")
 ![Preview](electroncryp2.png "nativeinmac2")
